@@ -1,7 +1,7 @@
 # onepiece-merchandise
 Azure Microsoft Internship Project
-- Project Link: 
-- Demo Video Link: 
+- Project Link: https://kind-hill-03603b600.3.azurestaticapps.net
+- Demo Video Link: https://youtu.be/ssdVShCYDYM
 
 ## Features and Functionalities:-
 - Interactive and responsive UI.
