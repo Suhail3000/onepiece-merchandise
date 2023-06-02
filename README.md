@@ -35,6 +35,7 @@ The  basic functionality of our project is to  provide High-Quality Products wit
 
 ## Trending
 ![product2](https://github.com/mohammedsuhail3000/onepiece-merchandise/assets/134853659/75307e4a-6c32-4940-918a-4c9d066d9128)
+![product 1](https://github.com/mohammedsuhail3000/onepiece-merchandise/assets/134853659/6a4f53c7-77b1-41a3-9004-a633af08206b)
 
 
 ## Review
